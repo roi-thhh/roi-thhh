@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Rohith! 👋<br>I'm a Computer Science engineering student specializing in Artificial Intelligence.<br>- 🔭 **Currently focused on:** Building AI-driven projects, automating systems, and creating interactive web experiences.<br>
+# Hi there, I'm Rohith! 👋<br>I'm a Computer Science engineering student specializing in Artificial Intelligence.<br>**Currently focused on:** Building AI-driven projects, automating systems, and creating interactive web experiences.- 🔭 <br>
 
 
 ## 🌐 Socials:
