@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Rohith! 👋<br>I'm a Computer Science engineering student specializing in Artificial Intelligence.<br>- 🔭 **Currently focused on:** Building AI-driven projects, automating systems, and creating interactive web experiences.<br>- 🌱 **Tech Stack:** Python, Java, C, SQL, and various Generative AI models.<br>- 🎨 **Design & No-Code:** Framer, Make.com, After Effects, and UI/UX design.<br>- 🤝 **Community & Leadership:** I actively organize tech events and hackathons as the Technical Lead for IEEE SB, and as a coordinator for GDG and IEDC.<br>
+# Hi there, I'm Rohith! 👋<br>I'm a Computer Science engineering student specializing in Artificial Intelligence.<br>- 🔭 **Currently focused on:** Building AI-driven projects, automating systems, and creating interactive web experiences.<br>
 
 
 ## 🌐 Socials:
